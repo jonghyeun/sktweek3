@@ -1,8 +1,16 @@
 <<<<<<< HEAD
 SK
 aaaa
+<<<<<<< HEAD
 aaaaa
 replaced in 20240108
 =======
 SKT
 >>>>>>> parent of 8345474 (Replace Lions with Leopard)
+=======
+T
+aaaaaaa
+i
+in my branch!!!!!!!
+no root!!!`
+>>>>>>> my_branch
